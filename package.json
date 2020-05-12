@@ -1,0 +1,34 @@
+{
+  "name": "stmdl-converter",
+  "version": "1.5.19",
+  "description": "This package will be used to convert a mathematics units",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "converter",
+    "speed",
+    "hour",
+    "meters",
+    "per",
+    "kilometers",
+    "mètres",
+    "kilomètres",
+    "time",
+    "masses",
+    "ms",
+    "kg",
+    "lbs",
+    "distance",
+    "degrees",
+    "°C",
+    "°F",
+    "decimeters"
+  ],
+  "author": "wazabix",
+  "license": "MIT"
+}
